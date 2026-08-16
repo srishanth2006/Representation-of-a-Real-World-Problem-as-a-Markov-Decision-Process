@@ -136,8 +136,8 @@ Penalty reward of -100.
 
 
 ## Python Representation
-### NAME: NAKUL R 
-### REGISTER NUMBER : 212223240102
+### NAME: SRISHANTH J 
+### REGISTER NUMBER : 212223240160
 
 
 ```python
